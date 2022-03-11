@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhedo
 - 👀 I’m interested in game
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning angular framework
 - 💞️ I’m looking to collaborate on game developer
 - 📫 How to reach me edonobrook2003@gmail.com
 
